@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">To-Do</string>
+    <string name="something_times">Time out !</string>
+    <string name="server_error">Server Error</string>
+    <string name="no_network_connection">No network connection</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="search">Search</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="title_activity_tv_details">TvDetailsActivity</string>
+    <string name="overview">Overview</string>
+    <string name="series_cast">Series Cast</string>
+    <string name="genre">Genre</string>
+    <string name="release_date">Release Date</string>
+    <string name="sessions">Sessions</string>
+    <string name="network">Network</string>
+    <string name="episode_with_count">%s Episodes</string>
+    <string name="episode">Episodes</string>
+    <string name="home">home</string>
+    <string name="user">User</string>
+    <string name="task">Task</string>
+    <string name="create_new_to_do_list">Create New to do list</string>
+    <string name="task_name">Task Name</string>
+    <string name="start_date">Start Date</string>
+    <string name="description">Description</string>
+    <string name="priority_level">Priority Level</string>
+    <string name="assigned_to">Assigned to</string>
+    <string name="status">Status</string>
+    <string name="save">Save</string>
+
+</resources>
