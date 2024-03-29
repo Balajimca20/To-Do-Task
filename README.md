@@ -1,1 +1,1 @@
-./Screenshot_one.png
+/Screenshot_one.png
